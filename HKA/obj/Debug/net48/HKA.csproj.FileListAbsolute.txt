@@ -1,0 +1,9 @@
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\bin\Debug\net48\HKA.gha
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\bin\Debug\net48\HKA.pdb
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\obj\Debug\net48\HKA.csproj.AssemblyReference.cache
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\obj\Debug\net48\HKA.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\obj\Debug\net48\HKA.AssemblyInfoInputs.cache
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\obj\Debug\net48\HKA.AssemblyInfo.cs
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\obj\Debug\net48\HKA.csproj.CoreCompileInputs.cache
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\obj\Debug\net48\HKA.gha
+D:\01_Programming\C#\Github\GH_PlugIns\HKA_Pavillon\HKA\HKA\obj\Debug\net48\HKA.pdb

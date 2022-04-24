@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lH5cuhCnkZPrT4XBJ6RIoCGGI+biT91xexBz3RYls6Iea/wEwdn6JH0S4C9FDuzh9Zp90eCp41GL1jexF38F5Q==",
+  "success": true,
+  "projectFilePath": "D:\\01_Programming\\C#\\Github\\GH_PlugIns\\HKA_Pavillon\\HKA\\HKA\\HKA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0815b\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\0815b\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
